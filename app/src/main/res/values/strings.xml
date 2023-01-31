@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Poc Tabs</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_one_fragment">Tab 1 Fragment</string>
+    <string name="tab_two_fragment">Tab 2 Fragment</string>
+    <string name="tab_three_fragment">Tab 3 Fragment</string>
 </resources>
